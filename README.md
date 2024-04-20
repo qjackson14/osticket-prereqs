@@ -35,10 +35,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="347" alt="iis" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/55ef9054-3819-4a81-b655-45a19e9cdb99">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click Start, open Control Panel -> Programs -> Turn Windows Features on and off -> Enable IIS/World Wide Web Services/Application Development Features -> Check boxes CGI/Common HTTP Features -> Internet Information Services -> Web Management Tools -> Check box IIS Management Console
 </p>
 <br />
 
