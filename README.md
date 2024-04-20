@@ -116,23 +116,50 @@ Open IIS -> Click osTicket -> Click Browse 80 -> Open PHP Manager -> Click enabl
 <br />
 
 <p>
-<img width="409" alt="osconfig" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/fb13bc47-16c5-4a3b-a690-b4884c563f24"><img width="575" alt="disable inheritance" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/eb0e64a7-38c3-4e8e-a7d9-c234c512a817"><img width="345" alt="new perms everyone" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/ea44d9c9-2b18-4587-90c4-1c0852695252">
-
-
-
+<img width="409" alt="osconfig" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/fb13bc47-16c5-4a3b-a690-b4884c563f24">
 </p>
 <p>
 Change From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
-To: C:\inetpub\wwwroot\osTicket\include\ost-config.php -> basically just delete sample from file name -> Disable inheritance -> Set a principal -> Set permission to Everyone -> Check all boxes
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php -> basically just delete sample from file name
+</p>
+<br />
+<p><img width="575" alt="disable inheritance" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/eb0e64a7-38c3-4e8e-a7d9-c234c512a817">
+</p>
+<p>Disable inheritance
+</p>
+<p><img width="345" alt="new perms everyone" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/ea44d9c9-2b18-4587-90c4-1c0852695252">
+</p>
+<p>Set a principal -> Set permission to Everyone -> Check all boxes
 </p>
 <br />
 
 <p>
-<img width="480" alt="server setup" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/36f11a12-6e75-4947-8abc-25900182be76"><img width="449" alt="heidisql" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/e1f2d1ee-f588-411e-b678-ec04952e5b2e"><img width="701" alt="setup database" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/f855dc67-9c0b-4489-9f34-3b579f4e7af5"><img width="299" alt="osticket login" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/cf80c512-471c-4812-b887-9296c4c6071a">
-
+<img width="480" alt="server setup" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/36f11a12-6e75-4947-8abc-25900182be76">
 </p>
+
+
 <p>
 Open osTicket -> Download HeidiSQL -> Create new/database/osTicket -> Click install now & login
 
 </p>
+<br />
+
+<img width="449" alt="heidisql" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/e1f2d1ee-f588-411e-b678-ec04952e5b2e">
+
+
+<p>Download HeidiSQL</p>
+<br />
+
+<p><img width="701" alt="setup database" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/f855dc67-9c0b-4489-9f34-3b579f4e7af5">
+
+
+<p>Create new/database/osTicket
+</p>
+<br />
+
+<p><img width="299" alt="osticket login" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/cf80c512-471c-4812-b887-9296c4c6071a">
+</p>
+
+
+<p>Click install now & login</p>
 <br />
