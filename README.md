@@ -43,15 +43,21 @@ Click Start, open Control Panel -> Programs -> Turn Windows Features on and off 
 <br />
 
 <p>
-<img width="390" alt="php manager" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/d8711c60-2624-43f5-ac48-cfad8669899c"><img width="386" alt="iis url rewrite module" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/a4bd18b6-c6b2-47fd-a283-b02a62e2d676">
+<img width="390" alt="php manager" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/d8711c60-2624-43f5-ac48-cfad8669899c">
+
+</p>
+<p>
+Download PHP Manager
+</p>
+<br />
+<p><img width="386" alt="iis url rewrite module" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/a4bd18b6-c6b2-47fd-a283-b02a62e2d676">
 
 
 </p>
 <p>
-Download PHP Manager -> Download Rewrite Module for osTicket
+Download Rewrite Module for osTicket
 </p>
 <br />
-
 <p>
 
 
@@ -64,15 +70,18 @@ Create C:\PHP folder on C-drive -> Download PHP 7.3.8 -> Extract files into C:\P
   <p>
 
 
-<img width="362" alt="vc redist" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/92a872fc-6599-476a-aa75-034a5675861c"><img width="390" alt="mysql" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/fa43d4b0-fba1-4642-8d58-42a9a9626f58">
-
-
+<img width="362" alt="vc redist" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/92a872fc-6599-476a-aa75-034a5675861c">
 </p>
 <p>
-Download VC Redist -> Download MYSQL
+Download VC Redist
 </p>
 <br />
-
+ <p><img width="390" alt="mysql" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/fa43d4b0-fba1-4642-8d58-42a9a9626f58">
+</p>
+<p>
+Download MYSQL
+</p>
+<br />
 <p>
 
 
