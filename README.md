@@ -85,18 +85,24 @@ Download VC Redist -> Download MYSQL
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="919" alt="move upload folder" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/128a7642-34c2-4dbe-a7df-65c232dc17cf"><img width="535" alt="change upload folder to osticket" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/75c9c9e6-07c4-4616-a589-61d92ddfe3cb">
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Download osTicket -> Open c-drive/inetpub/wwwroot -> Move upload folder from osTicket download to wwwroot -> rename "upload" to "osTicket"
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="708" alt="browse 80" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/96279f74-25a0-4b52-b32d-1efa5d99e5ac"><img width="706" alt="enable and disable" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/f8b6527a-6670-4218-bb57-22f7e8c5e02b"><img width="377" alt="enable screen" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/849648a9-4f67-4022-acdf-7e5c78579566">
+
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open IIS -> Click osTicket -> Click Browse 80 -> Open PHP Manager -> Click enable or disable an extension -> Enable: php_imap.dll Enable: php_intl.dll Enable: php_opcache.dll -> Refresh osTicket
+
 </p>
 <br />
 
