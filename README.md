@@ -74,10 +74,13 @@ Download VC Redist -> Download MYSQL
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+<img width="709" alt="php admin open" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/46c7761c-9e9e-47fb-af90-4dcb20adb42c"><img width="379" alt="php path cgi" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/d736a6db-21ff-4941-981d-33b6d2be8a9c">
+
+
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>Open IIS as administrator -> Click on PHP Manager -> Register new PHP Version -> PHP CGI -> Restart server
 </p>
 <br />
 
