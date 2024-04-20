@@ -62,10 +62,14 @@ Download PHP Manager -> Download Rewrite Module for osTicket
 <p>
 Create C:\PHP folder on C-drive -> Download PHP 7.3.8 -> Extract files into C:\PHP folder
   <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+<img width="362" alt="vc redist" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/92a872fc-6599-476a-aa75-034a5675861c"><img width="390" alt="mysql" src="https://github.com/qjackson14/osticket-prereqs/assets/156969011/fa43d4b0-fba1-4642-8d58-42a9a9626f58">
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Download VC Redist -> Download MYSQL
 </p>
 <br />
 
