@@ -30,6 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install MYSQL
 - Install osTicket
 - Install HeidiSQL
+- Link to downloads: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 - Cleanup
 
 <h2>Installation Steps</h2>
